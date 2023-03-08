@@ -25,3 +25,11 @@ for (let i = 0; i < 10; i++) {
     // const n = numbers [i;
     const n = numbers[i];
 }
+
+// error:3
+// if (numbers.length > 5) && (numbers[0] === 5){
+
+// }
+if (numbers.length > 5 && numbers[0] === 5) {
+
+}
