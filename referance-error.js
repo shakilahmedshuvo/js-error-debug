@@ -15,6 +15,11 @@ function add(n1, n2) {
 }
 
 // call the function add2
-console.log(add2(2, 3))
+// console.log(add2(2, 3))
 const add2 = (n1, n2) => n1 + n2;
 
+// 
+function doSomeThing() {
+    const sum = 55;
+}
+console.log(sum);
